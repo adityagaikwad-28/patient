@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "859851699650",
+    "project_id": "patient-tracker-3140c",
+    "storage_bucket": "patient-tracker-3140c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859851699650:android:21e94c9ebf421ab81d125b",
+        "android_client_info": {
+          "package_name": "com.mughees.appointmentmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "859851699650-ss9e84igkfmavv1rf2aid13s97h4q853.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvMtGIvvFK5HJh6k5SELELlKlVKnzsink"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "859851699650-ss9e84igkfmavv1rf2aid13s97h4q853.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
